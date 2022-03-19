@@ -59,12 +59,12 @@
                                         </ul>
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
-                                        <div class="pricing-price">
+                                        <!-- <div class="pricing-price">
                                             <p>Starting at</p>
                                             <h2><sup>Rs.</sup>49</h2>
                                             <h6 class="discount-price">25% Discount<del>Rs.49.99</del></h6>
                                         </div>
-                                    </div><!-- .pricing-body END -->
+ -->                                    </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
                                         <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div><!-- .pricing-footer END -->
@@ -85,16 +85,16 @@
                                         </div><!-- .pricing-body END -->
                                         <!-- <h4 style="margin-top: 15px; color: #15095e;">Now 40% Off</h4> -->
                                         <ul class="pricing-card-list" style="text-align: left; padding: 7px;">
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true"></i>One-click WordPress installs&nbsp;
+                                            <li class="pricing-card-list-items package-features"  style="color:white"><i class="fa fa-check tick" aria-hidden="true"></i>One-click WordPress installs&nbsp;
                                             </li>
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true" ></i>Free WordPress website transfer&nbsp;</li>
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true"></i>Unlimited websites&nbsp;
+                                            <li class="pricing-card-list-items package-features" style="color:white"><i class="fa fa-check tick" aria-hidden="true" ></i>Free WordPress website transfer&nbsp;</li>
+                                            <li class="pricing-card-list-items package-features" style="color:white"><i class="fa fa-check tick" aria-hidden="true"></i>Unlimited websites&nbsp;
                                             </li>
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true" style="margin-right: 4px"></i>Unmetered bandwidth&nbsp;
+                                            <li class="pricing-card-list-items package-features" style="color:white"><i class="fa fa-check tick" aria-hidden="true" style="margin-right: 4px"></i>Unmetered bandwidth&nbsp;
                                             </li>
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true" style="margin-right: 4px"></i>Free SSL certificate&nbsp;</li>
-                                            <li class="pricing-card-list-items package-features"><i class="fa fa-check tick" aria-hidden="true"></i>Free domain included&nbsp;
-                                                <i class="fa fa-info-circle tick" aria-hidden="true">
+                                            <li class="pricing-card-list-items package-features" style="color:white"><i class="fa fa-check tick" aria-hidden="true" style="margin-right: 4px"></i>Free SSL certificate&nbsp;</li>
+                                            <li class="pricing-card-list-items package-features" style="color:white"><i class="fa fa-check tick" aria-hidden="true"></i>Free domain included&nbsp;
+                                                <i class="fa fa-info-circle tick" aria-hidden="true" style="color:white;">
                                                  <span class="litooltip " style="background:black;">iNodes-60000<br>CPU(%)-50<br>RAM(MBs)-300<br>EP-10<br>I/O(MB/sec)-1024<br>
                                                 </span>
                                                 </i>
@@ -102,11 +102,11 @@
                                         </ul>
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
-                                        <div class="pricing-price">
+                                        <!-- <div class="pricing-price">
                                             <p>Starting at</p>
                                             <h2><sup>Rs.</sup>49</h2>
                                             <h6 class="discount-price">25% Discount<del>Rs.49.99</del></h6>
-                                        </div>
+                                        </div> -->
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
                                         <a href="#" class="btn btn-primary">Buy Now</a>
@@ -145,11 +145,11 @@
                                         </ul>
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
-                                        <div class="pricing-price">
+                                        <!-- <div class="pricing-price">
                                             <p>Starting at</p>
                                             <h2><sup>Rs.</sup>49</h2>
                                             <h6 class="discount-price">25% Discount<del>Rs.49.99</del></h6>
-                                        </div>
+                                        </div> -->
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
                                         <a href="#" class="btn btn-primary">Buy Now</a>
@@ -169,11 +169,12 @@
         <div class="row">
             <div class="col-md-6 mx-auto">
                 <div class="xs-heading wow fadeIn">
-                    <h2 class="heading-sub-title">Shared Hosting</h2>
-                    <h3 class="heading-title">WHY <span>SHARED HOSTING</span></h3>
+                    
+                    <h3 class="heading-title">Why <span>Choose Us ?</span></h3>
                 </div><!-- .xs-heading END -->
             </div>
         </div><!-- .row END -->
+        </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="why-choose-us-block wow fadeInUp">
@@ -202,8 +203,8 @@
                     <p>We finally found a host that truly understood the unique</p>
                 </div><!-- .why-choose-us-block END -->
             </div>
-        </div>
-    </div><!-- .container END -->
+    </div>
+    <!-- .container END -->
 </section><!-- END shared hosting details section -->
 
 <!-- include feature section -->
@@ -882,81 +883,6 @@
     </div><!-- .container END -->
 </section><!-- END faq section -->
 
-<!-- testimonial section -->
-<section class="xs-testimonial-section testimonial-v3 wow fadeIn">
-    <div class="container">
-        <div class="xs-testimonial-slider owl-carousel">
-            <div class="xs-testimonial-item">
-                <div class="testimonial-content">
-                    <p>Our best-in-class WordPress solution with additio nal optiz ation to make an running a WooCommerce</p>
-                    <div class="commentor-bio media">
-                        <div class="d-flex round-avatar">
-                            <img src="assets/images/avatar/avatar-1.png" alt="avatar image">
-                        </div>
-                        <div class="media-body align-self-center">
-                            <h4 class="commentor-title">Richard I Jones</h4>
-                            <p class="commentor-info">WWW Realty</p>
-                            <i class="icon icon-quote"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="xs-testimonial-item">
-                <div class="testimonial-content">
-                    <p>Our best-in-class WordPress solution with additio nal optiz ation to make an running a WooCommerce</p>
-                    <div class="commentor-bio media">
-                        <div class="d-flex round-avatar">
-                            <img src="assets/images/avatar/avatar-2.png" alt="avatar image">
-                        </div>
-                        <div class="media-body align-self-center">
-                            <h4 class="commentor-title">Cecilia H King</h4>
-                            <p class="commentor-info">The White Rabbit</p>
-                            <i class="icon icon-quote"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="xs-testimonial-item">
-                <div class="testimonial-content">
-                    <p>Our best-in-class WordPress solution with additio nal optiz ation to make an running a WooCommerce</p>
-                    <div class="commentor-bio media">
-                        <div class="d-flex round-avatar">
-                            <img src="assets/images/avatar/avatar-3.png" alt="avatar image">
-                        </div>
-                        <div class="media-body align-self-center">
-                            <h4 class="commentor-title">Joe D Walczak</h4>
-                            <p class="commentor-info">Hechinger</p>
-                            <i class="icon icon-quote"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!-- .container END -->
-</section><!-- END testimonial section -->
-
-<!-- client section -->
-<div class="xs-client-section xs-section-padding-bottom">
-    <div class="container">
-        <div class="xs-client-slider owl-carousel">
-            <div class="single-client">
-                <img src="assets/images/client/client-1.png" alt="hosting client image">
-            </div><!-- .single-client END -->
-            <div class="single-client">
-                <img src="assets/images/client/client-2.png" alt="hosting client image">
-            </div><!-- .single-client END -->
-            <div class="single-client">
-                <img src="assets/images/client/client-3.png" alt="hosting client image">
-            </div><!-- .single-client END -->
-            <div class="single-client">
-                <img src="assets/images/client/client-4.png" alt="hosting client image">
-            </div><!-- .single-client END -->
-            <div class="single-client">
-                <img src="assets/images/client/client-5.png" alt="hosting client image">
-            </div><!-- .single-client END -->
-        </div>
-    </div><!-- .container END -->
-</div><!-- END client section -->
 
 <!-- language switcher strart -->
 <!-- xs modal -->
