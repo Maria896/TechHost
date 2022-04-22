@@ -58,15 +58,19 @@
                                 <div class="megamenu-panel xs-service-menu">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <a href="{{ url('domain-checker') }}">
+                                            <a href="{{ url('register-domain') }}">
                                                 <div class="media">
-                                                    <img src="assets/images/menu-icon/icon-1.png" alt="">
+                                                    <img src="assets/images/menu-icon/icon-4.png" alt="">
                                                     <div class="media-body">
-                                                        <h4>Domain Checker</h4>
-                                                        <p>Early Create sites & offload them to clients</p>
+                                                        <h4>Register Domain</h4>
+                                                        <p>Access your files from anywhere</p>
                                                     </div>
                                                 </div>
                                             </a>
+                                            
+                                        </div>
+                                        <div class="col-lg-6">
+                                            
                                             <a href="{{ url('transfer-domain') }}">
                                                 <div  class="media">
                                                     <img src="assets/images/menu-icon/icon-2.png" alt="">
@@ -77,26 +81,7 @@
                                                 </div>
                                             </a>
                                         </div>
-                                        <div class="col-lg-6">
-                                            <a href="{{ url('register-domain') }}">
-                                                <div class="media">
-                                                    <img src="assets/images/menu-icon/icon-4.png" alt="">
-                                                    <div class="media-body">
-                                                        <h4>Register Domain</h4>
-                                                        <p>Access your files from anywhere</p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a href="{{ url('pk-domain') }}">
-                                                <div class="media">
-                                                    <img src="assets/images/menu-icon/icon-5.png" alt="">
-                                                    <div class="media-body">
-                                                        <h4>PK Domain</h4>
-                                                        <p>Be secure, be safe</p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </li>
@@ -196,7 +181,7 @@
                                 <div class="megamenu-panel xs-service-menu">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <a href="">
+                                            <a href="{{route('website-development')}}">
                                                 <div class="media">
                                                     <img src="assets/images/menu-icon/icon-1.png" alt="">
                                                     <div class="media-body">
@@ -205,7 +190,7 @@
                                                     </div>
                                                 </div>
                                             </a>
-                                            <a href="#">
+                                            <a href="{{route('seo')}}">
                                                 <div  class="media">
                                                     <img src="assets/images/menu-icon/icon-2.png" alt="">
                                                     <div class="media-body">
@@ -216,7 +201,7 @@
                                             </a>
                                         </div>
                                         <div class="col-lg-6">
-                                            <a href="#">
+                                            <a href="{{route('smo')}}">
                                                 <div class="media">
                                                     <img src="assets/images/menu-icon/icon-4.png" alt="">
                                                     <div class="media-body">
@@ -225,7 +210,7 @@
                                                     </div>
                                                 </div>
                                             </a>
-                                            <a href="#">
+                                            <a href="{{route('ssl')}}">
                                                 <div class="media">
                                                     <img src="assets/images/menu-icon/icon-5.png" alt="">
                                                     <div class="media-body">

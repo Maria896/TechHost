@@ -48,6 +48,14 @@ Route::get('pk-domain','HomeController@pkDomain');
 
 Route::get('domain-checker','HomeController@domainChecker');
 
+Route::get('website-development','HomeController@websitedevelopment')->name('website-development');
+
+Route::get('ssl','HomeController@ssl')->name('ssl');
+
+Route::get('seo','HomeController@seo')->name('seo');
+
+Route::get('smo','HomeController@smo')->name('smo');;
+
 /*Routes for hosting sub pages*/
 
 Route::get('business-hosting','HomeController@businessHosting');

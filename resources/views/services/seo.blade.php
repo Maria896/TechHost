@@ -7,8 +7,8 @@
             <div class="col-lg-7 align-self-center">
                 <div class="xs-banner-content">
                     <div class="xs-banner-group">
-                        <h2 class="banner-title wow fadeInLeft" data-wow-duration="1s">SHARED HOSTING</h2>
-                        <p class="wow fadeInLeft" data-wow-duration="1.5s">Share processes and data securely on a need to know basis  without the need for reconciliation it combines a permissione.</p>
+                        <h2 class="banner-title wow fadeInLeft" data-wow-duration="1s">Website Development</h2>
+                       
                     </div>
                 </div><!-- .xs-banner-content END -->
             </div>
@@ -31,7 +31,7 @@
                                 <div class="xs-single-pricing">
                                     <div class="pricing-header">
                                         
-                                        <h3 class="xs-title"><b>Freelance Plan</b></h3>
+                                        <h3 class="xs-title"><b>Tech Business</b></h3>
                                         <!-- price details -->
                                         <div class="pricing-body">
                                             <div class="pricing-price">
@@ -74,7 +74,7 @@
                                 <div class="xs-single-pricing active">
                                     <div class="pricing-header">
                                         
-                                        <h3 class="xs-title"><b>Agency Plan</b></h3>
+                                        <h3 class="xs-title"><b>Tech Ecommerce</b></h3>
                                         <!-- price details -->
                                         <div class="pricing-body">
                                             <div class="pricing-price">
@@ -117,7 +117,7 @@
                                 <div class="xs-single-pricing" >
                                     <div class="pricing-header">
                                         
-                                        <h3 class="xs-title"><b>Business Plan</b></h3>
+                                        <h3 class="xs-title"><b>Tech Dynamic</b></h3>
                                         <!-- price details -->
                                         <div class="pricing-body">
                                             <div class="pricing-price">
@@ -207,106 +207,83 @@
     <!-- .container END -->
 </section><!-- END shared hosting details section -->
 
-<section class="xs-section-padding bg-gradient">
+<!-- include feature section -->
+<section class="xs-section-padding included-feature-list bg-gradient">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto">
-                <div class="xs-heading wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+                <div class="xs-heading wow fadeIn">
                     <h2 class="heading-sub-title">We Offer</h2>
                     <h3 class="heading-title">FEATURES <span>INCLUDED</span></h3>
                 </div><!-- .xs-heading END -->
             </div>
         </div><!-- .row END -->
-        <ul class="nav nav-tabs main-nav-tab-2 tab-swipe wow fadeIn animated" data-wow-duration="1.5s" role="tablist" style="visibility: visible; animation-duration: 1.5s; animation-name: fadeIn;">
-            <li>
-                <a id="webTransfer-tab" class="active show" data-toggle="tab" href="#webTransfer" role="tab" aria-controls="webTransfer" aria-selected="true">
-                    <p><img src="assets/images/features/tab-icon-1.png" alt="hosting features icon" draggable="false"></p>
-                    Website Transfers
-                </a>
-            </li>
-            <li>
-                <a id="freeEmail-tab" data-toggle="tab" href="#freeEmail" role="tab" aria-controls="freeEmail" aria-selected="false">
-                    <p><img src="assets/images/features/tab-icon-2.png" alt="hosting features icon" draggable="false"></p>
-                    Get free email
-                </a>
-            </li>
-            <li>
-                <a id="webSpeed-tab" data-toggle="tab" href="#webSpeed" role="tab" aria-controls="webSpeed" aria-selected="false">
-                    <p><img src="assets/images/features/tab-icon-3.png" alt="hosting features icon" draggable="false"></p>
-                    Website speed
-                </a>
-            </li>
-            <li>
-                <a id="freeCpanel-tab" data-toggle="tab" href="#freeCpanel" role="tab" aria-controls="freeCpanel" aria-selected="false">
-                    <p><img src="assets/images/features/tab-icon-1.png" alt="hosting features icon" draggable="false"></p>
-                    Free cPanel
-                </a>
-            </li>
-        <li class="indicator" style="left: 0px; width: 255px;"></li></ul><!-- .main-nav-tab-2 END -->
-        <div class="tab-content wow fadeIn animated" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeIn;">
-            <div class="tab-pane fadeIn animated show active" id="webTransfer" role="tabpanel" aria-labelledby="webTransfer-tab">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="feature-image-content">
-                            <img src="assets/images/features/feature-image.png" alt="hosting feature image" draggable="false">
-                        </div><!-- .feature-image-content END -->
-                    </div>
-                    <div class="col-lg-6 align-self-center">
-                        <div class="feature-text-content">
-                            <h3 class="content-title">Get free Website Transfers</h3>
-                            <p>Moving your website from another Web Host? Chat with us and our Account Manager will do the cPanel to cPanel website migration for you, completely Free of charge! Also, you can upgrade between plans on Shared Hosting by yourself from your panel.</p>
-                        </div><!-- .feature-text-content END -->
-                    </div>
-                </div><!-- .row END -->
-            </div><!-- #webTransfer END -->
-            <div class="tab-pane fadeIn animated" id="freeEmail" role="tabpanel" aria-labelledby="freeEmail-tab">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="feature-image-content">
-                            <img src="assets/images/features/feature-image.png" alt="hosting feature image" draggable="false">
-                        </div><!-- .feature-image-content END -->
-                    </div>
-                    <div class="col-lg-6 align-self-center">
-                        <div class="feature-text-content">
-                            <h3 class="content-title">Free unlimited email service</h3>
-                            <p>Moving your website from another Web Host? Chat with us and our Account Manager will do the cPanel to cPanel website migration for you, completely Free of charge! Also.</p>
-                        </div><!-- .feature-text-content END -->
-                    </div>
-                </div><!-- .row END -->
-            </div><!-- #freeEmail END -->
-            <div class="tab-pane fadeIn animated" id="webSpeed" role="tabpanel" aria-labelledby="webSpeed-tab">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="feature-image-content">
-                            <img src="assets/images/features/feature-image.png" alt="hosting feature image" draggable="false">
-                        </div><!-- .feature-image-content END -->
-                    </div>
-                    <div class="col-lg-6 align-self-center">
-                        <div class="feature-text-content">
-                            <h3 class="content-title">Super web spped</h3>
-                            <p>Moving your website from another Web Host? Chat with us and our Account Manager will do the cPanel to cPanel website migration for you, completely.</p>
-                        </div><!-- .feature-text-content END -->
-                    </div>
-                </div><!-- .row END -->
-            </div><!-- #webSpeed END -->
-            <div class="tab-pane fadeIn animated" id="freeCpanel" role="tabpanel" aria-labelledby="freeCpanel-tab">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="feature-image-content">
-                            <img src="assets/images/features/feature-image.png" alt="hosting feature image" draggable="false">
-                        </div><!-- .feature-image-content END -->
-                    </div>
-                    <div class="col-lg-6 align-self-center">
-                        <div class="feature-text-content">
-                            <h3 class="content-title">Free cPanel service</h3>
-                            <p>Moving your website from another Web Host? Chat with us and our Account Manager will do the cPanel to cPanel website migration for you, completely Free of charge! Also, you can upgrade between plans on Shared Hosting by yourself from your panel.</p>
-                        </div><!-- .feature-text-content END -->
-                    </div>
-                </div><!-- .row END -->
-            </div><!-- #freeCpanel END -->
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="include-feature-list">
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-1.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">No Multi Tenancy</h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-2.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">LiteSpeed Web Server</h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-3.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">cPanel Hosting Control </h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                </div><!-- .include-feature-list END -->
+            </div>    
+            <div class="col-lg-6">
+                <div class="include-feature-list">
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-4.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">PHP Selector</h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-5.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">LiteSpeed Web Server</h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                    <div class="media hosting-info-list">
+                        <div class="d-flex info-icon">
+                            <img src="assets/images/included-feature/included-feature-6.png" alt="included feature icon">
+                        </div>
+                        <div class="media-body">
+                            <h4 class="xs-title">Patchman Kiler</h4>
+                            <p>Share processes and data secure lon a need to know basis  with out the need for reconciliation it combines.</p>
+                        </div>
+                    </div><!-- .hosting-info-list END -->
+                </div><!-- .include-feature-list END -->
+            </div>    
         </div>
     </div><!-- .container END -->
-</section>
+</section><!-- END include feature section -->
 
 <!-- pricing section -->
 <section class="pricing-section xs-section-padding xs-bg-gray">

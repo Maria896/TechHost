@@ -63,9 +63,22 @@ class HomeController extends Controller
     {
         return view('servers.vps_servers');
     }
-
-
-
+    public function ssl()
+    {
+        return view('services.ssl_certificates');
+    }
+    public function websitedevelopment()
+    {
+        return view('services.web_development');
+    }
+    public function seo()
+    {
+        return view('services.smo');
+    }
+    public function smo()
+    {
+        return view('services.smo');
+    }
 
 
 }

@@ -14,59 +14,26 @@
             </div>
             <div class="col-lg-5 align-self-center">
                 <div class="inner-welcome-image-group wow fadeIn">
-                    <img src="assets/images/innerWelcome/cloud-hosting-bg.png" data-parallax='{"y": 150}' alt="hosting image">
+                    <!-- <img src="assets/images/innerWelcome/cloud-hosting-bg.png" data-parallax='{"y": 150}' alt="hosting image"> -->
                 </div>
             </div>
         </div><!-- .row END -->
     </div><!-- .container END -->
 </section><!-- End banner section -->
 
+
 <!-- shared hosting details section -->
-<section class="xs-section-padding">
+<section class="xs-section-padding pt-0">
+    
+
     <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto">
                 <div class="xs-heading wow fadeIn">
-                    <h2 class="heading-sub-title">Shared Hosting</h2>
-                    <h3 class="heading-title">WHY <span>SHARED HOSTING</span></h3>
-                </div><!-- .xs-heading END -->
+                  <h3 class="heading-title">VPS Hosting<span>Plans</span></h3>
+                </div>
             </div>
-        </div><!-- .row END -->
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="why-choose-us-block wow fadeInUp">
-                    <div class="choose-us-img">
-                        <img src="assets/images/chooseUs/choose-us-1.png" alt="hostinza hosting image">
-                    </div>
-                    <h4 class="xs-title">99.9% Uptime Guarantee</h4>
-                    <p>Share processes and data secure <br> lona need to know basis</p>
-                </div><!-- .why-choose-us-block END -->
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="why-choose-us-block wow fadeInUp" data-wow-duration="1.5s">
-                    <div class="choose-us-img">
-                        <img src="assets/images/chooseUs/choose-us-2.png" alt="hostinza hosting image">
-                    </div>
-                    <h4 class="xs-title">Safe and Secured</h4>
-                    <p>Our team assured your web site is always safe and secure</p>
-                </div><!-- .why-choose-us-block END -->
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="why-choose-us-block wow fadeInUp" data-wow-duration="2s">
-                    <div class="choose-us-img">
-                        <img src="assets/images/chooseUs/choose-us-3.png" alt="hostinza hosting image">
-                    </div>
-                    <h4 class="xs-title">Our Dedicated Support</h4>
-                    <p>We finally found a host that truly understood the unique</p>
-                </div><!-- .why-choose-us-block END -->
-            </div>
-        </div>
-    </div><!-- .container END -->
-</section><!-- END shared hosting details section -->
-
-<!-- shared hosting details section -->
-<section class="xs-section-padding pt-0">
-    <div class="container">
+        </div>    
         <div class="vps-slider-wraper">
             <div class="slider-group">
                 <div class="vps-slider"></div><!-- .vps-slider END -->
@@ -156,6 +123,49 @@
         </div><!-- .vps-slider-wraper END -->
     </div>
 </section><!-- END shared hosting details section -->
+<!-- shared hosting details section -->
+<section class="xs-section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <div class="xs-heading wow fadeIn">
+                    <h2 class="heading-sub-title">Shared Hosting</h2>
+                    <h3 class="heading-title">WHY <span>SHARED HOSTING</span></h3>
+                </div><!-- .xs-heading END -->
+            </div>
+        </div><!-- .row END -->
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="why-choose-us-block wow fadeInUp">
+                    <div class="choose-us-img">
+                        <img src="assets/images/chooseUs/choose-us-1.png" alt="hostinza hosting image">
+                    </div>
+                    <h4 class="xs-title">99.9% Uptime Guarantee</h4>
+                    <p>Share processes and data secure <br> lona need to know basis</p>
+                </div><!-- .why-choose-us-block END -->
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="why-choose-us-block wow fadeInUp" data-wow-duration="1.5s">
+                    <div class="choose-us-img">
+                        <img src="assets/images/chooseUs/choose-us-2.png" alt="hostinza hosting image">
+                    </div>
+                    <h4 class="xs-title">Safe and Secured</h4>
+                    <p>Our team assured your web site is always safe and secure</p>
+                </div><!-- .why-choose-us-block END -->
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="why-choose-us-block wow fadeInUp" data-wow-duration="2s">
+                    <div class="choose-us-img">
+                        <img src="assets/images/chooseUs/choose-us-3.png" alt="hostinza hosting image">
+                    </div>
+                    <h4 class="xs-title">Our Dedicated Support</h4>
+                    <p>We finally found a host that truly understood the unique</p>
+                </div><!-- .why-choose-us-block END -->
+            </div>
+        </div>
+    </div><!-- .container END -->
+</section><!-- END shared hosting details section -->
+
 
 <!-- include feature section -->
 <section class="xs-section-padding included-feature-list bg-gradient">
@@ -234,7 +244,64 @@
         </div>
     </div><!-- .container END -->
 </section><!-- END include feature section -->
-
+<section class="map-location-area xs-section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <div class="xs-heading wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+                    <h2 class="heading-sub-title">World-class Data centers With Premium Connectivity.</h2>
+                    <h3 class="heading-title">HOSTINZA <span>NETWORK</span></h3>
+                </div><!-- .xs-heading END -->
+            </div> 
+        </div><!-- .row END -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="location-groups">
+                    <div class="map-image">
+                        <img src="assets/images/map.png" alt="" draggable="false">
+                    </div>
+                    <div class="location-wraper clearfix">
+                        <div class="location location-1" data-placement="top" data-toggle="tooltip" data-html="true" title="" data-original-title="<h2 class='location-name'>South Carolina Data Center</h2><p class='location-des'>3379  Ashmor Drive, <br>CLIFTON <br>USA</p>">
+                            <div class="location_indicator"></div>
+                            <div class="location_details d-block d-md-none">
+                                <h2 class="location-name">South Carolina Data Center</h2>
+                                <p class="location-des">3379  Ashmor Drive, <br>CLIFTON <br>USA</p>
+                            </div>
+                        </div><!-- location one -->
+                        <div class="location location-2" data-placement="bottom" data-toggle="tooltip" data-html="true" title="" data-original-title="<h2 class='location-name'>San Diego Data Center</h2><p class='location-des'>4708  Ocello Street, <br>California <br>USA</p>">
+                            <div class="location_indicator"></div>
+                            <div class="location_details d-block d-md-none">
+                                <h2 class="location-name">San Diego Data Center</h2>
+                                <p class="location-des">4708  Ocello Street, <br>California <br>USA</p>
+                            </div>
+                        </div><!-- location two -->
+                        <div class="location location-3" data-placement="top" data-toggle="tooltip" data-html="true" title="" data-original-title="<h2 class='location-name'>LOWPOINT Data Center</h2><p class='location-des'>1873  New Creek Road, <br>Illinois <br>USA</p>">
+                            <div class="location_indicator"></div>
+                            <div class="location_details d-block d-md-none">
+                                <h2 class="location-name">LOWPOINT Data Center</h2>
+                                <p class="location-des">1873  New Creek Road, <br>Illinois <br>USA</p>
+                            </div>
+                        </div><!-- location three -->
+                        <div class="location location-4" data-placement="right" data-toggle="tooltip" data-html="true" title="" data-original-title="<h2 class='location-name'>Jackson Data Center</h2><p class='location-des'>3455  Devils Hill Road, <br>Mississippi <br>USA</p>">
+                            <div class="location_indicator"></div>
+                            <div class="location_details d-block d-md-none">
+                                <h2 class="location-name">Jackson Data Center</h2>
+                                <p class="location-des">3455  Devils Hill Road, <br>Mississippi <br>USA</p>
+                            </div>
+                        </div><!-- location four -->
+                        <div class="location location-5" data-placement="left" data-toggle="tooltip" data-html="true" title="" data-original-title="<h2 class='location-name'>South Carolina Data Center</h2><p class='location-des'>4848  Marion Street, <br>Lancaster <br>USA</p>">
+                            <div class="location_indicator"></div>
+                            <div class="location_details d-block d-md-none">
+                                <h2 class="location-name">South Carolina Data Center</h2>
+                                <p class="location-des">4848  Marion Street, <br>Lancaster <br>USA</p>
+                            </div>
+                        </div><!-- location five -->
+                    </div><!-- .location-wraper END -->
+                </div>
+            </div>
+        </div><!-- .row END -->
+    </div><!-- .container END -->
+</section>
 
 <!-- offset cart strart -->
 <!-- sidebar cart item -->
@@ -338,3 +405,168 @@
         </div>
     </div>
 </div>    <!-- END sidebar widget item -->    <!-- END offset cart strart -->
+<!-- shared hosting details section -->
+<section class="xs-section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <div class="xs-heading wow fadeIn">
+                    
+                    <h3 class="heading-title"><span>SHARED HOSTING IN LAHORE</span></h3>
+                    <h2 class="heading-sub-title">Hosting by the Experts, for the Experts</h2>
+                </div><!-- .xs-heading END -->
+            </div>
+        </div><!-- .row END -->
+        <div class="row" style="margin-top:-30px">
+            <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+            </p>
+        </div>
+    </div><!-- .container END -->
+</section><!-- END shared hosting details section -->
+
+<!-- faq section -->
+<section class="xs-section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <div class="xs-heading wow fadeIn">
+                    <h2 class="heading-sub-title">Common FAQs</h2>
+                    <h3 class="heading-title">GENERAL <span>QUESTION</span></h3>
+                </div><!-- .xs-heading END -->
+            </div> 
+        </div><!-- .row END -->        
+        <div class="row">
+            <div class="col-lg-6">
+                <div id="accordion" class="xs-accordion" role="tablist">
+                    <div class="card isActive">
+                        <div class="card-header" role="tab" id="headingOne">
+                            <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Do you offer managed hosting? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>No, its completely unmanaged — if you experience issues with your server, you can reach out to our support team.</p>
+                            </div>
+                        </div>
+                    </div><!-- .card .isActive END -->
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingTwo">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                How to buy a domain in cheap price? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod brunch
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingThree">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                How do I set up a URL redirect for a domain? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingFour">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                How can I change the nameservers for my domain? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod brunch
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingFive">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                How do I generate a CSR code? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive" data-parent="#accordion">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div id="accordion-two" class="xs-accordion" role="tablist">
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingSix">
+                            <a data-toggle="collapse" class="collapsed" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                How to set up Free Email Forwarding <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix" data-parent="#accordion-two">
+                            <div class="card-body">
+                                <p>No, its completely unmanaged — if you experience issues with your server, you can reach out to our support team.</p>
+                            </div>
+                        </div>
+                    </div><!-- .card END -->
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingSeven">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                How do I transfer a domain? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven" data-parent="#accordion-two">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod brunch
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingEight">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                How to transfer an existing hosting account? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion-two">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingNine">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                How do I renew my domain? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="headingNine" data-parent="#accordion-two">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod brunch
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" role="tab" id="headingTen">
+                            <a class="collapsed" data-toggle="collapse" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                How does WhoisGuard work for keep secure? <i class="icon icon-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="headingTen" data-parent="#accordion-two">
+                            <div class="card-body">
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- .row END -->
+    </div><!-- .container END -->
+</section><!-- END faq section -->
